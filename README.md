@@ -26,7 +26,7 @@
 ## :books: General info
 
 * SCSS used to make styles code better structured and easier to follow.
-* User can click on forward or back buttons to change image on screen, othrwise images will scroll automatically every 4.5 seconds (adjustable)
+* User can click on forward or back buttons to change image on screen, otherwise images will scroll automatically every 4.5 seconds (adjustable)
 
 ## :camera: Screenshots
 
